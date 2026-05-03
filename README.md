@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📌 Automated Attendance System using Face Recognition
 
 ## 📖 Overview
@@ -92,3 +93,6 @@ This project was developed as part of an academic initiative to solve real-world
 
 ## 📬 Contact
 Feel free to reach out for suggestions or collaboration.
+=======
+# Automated-Attendance-System
+>>>>>>> 7ec55bd3c03fbb1ac263313aac50fca1b4f6bfdc
